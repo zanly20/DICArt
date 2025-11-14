@@ -1,0 +1,16 @@
+torch
+torchvision
+pytorch3d
+numpy
+MinkowskiEngine
+scipy
+opencv-python
+open3d
+Pillow
+matplotlib
+tensorboardX
+wandb
+tqdm
+mmcv
+mmengine
+ipdb

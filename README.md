@@ -2,7 +2,11 @@
 
 ## Overview
 ![alt text](assets/pipeline.png)
+
+[Li Zhang](http://zanly20.github.io), Mingyu Mei, Ailing Zeng, Xianhui Meng, Yan Zhong, Xinyuan Song, Liu Liu, Rujing Wang, Zaixin He, Cewu Lu
+
 ## Requirements
+
 - Ubuntu 22.04
 - Python 3.9
 - CUDA 11.8

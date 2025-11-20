@@ -3,7 +3,17 @@
 ## Overview
 ![alt text](assets/pipeline.png)
 
-[Li Zhang](http://zanly20.github.io), Mingyu Mei, Ailing Zeng, Xianhui Meng, Yan Zhong, Xinyuan Song, Liu Liu, Rujing Wang, Zaixin He, Cewu Lu
+<div align="center">
+<h3>
+<a href="https://zanly20.github.io">Li Zhang</a>,  Mingyu Mei, Ailing Zeng, Xianhui Meng, Yan Zhong, Xinyuan Song, Liu Liu, Rujing Wang, Zaixin He, Cewu Lu
+<br>
+<br>
+<a href='https://sites.google.com/view/dicart'>
+  <img src='https://img.shields.io/badge/Project-Page-green?style=flat&logo=googlechrome&logoColor=green' alt='Project Page'>
+</a>
+<br>
+</h3>
+</div>
 
 ## Requirements
 
